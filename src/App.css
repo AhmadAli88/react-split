@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.custom-gutter {
+  background-color: red;
+  cursor: ew-resize;
+}
+.custom-gutter-two {
+  background-color: purple;
+  cursor: ew-resize;
+}
+.custom-gutter.vertical {
+  cursor: ns-resize;
+}
